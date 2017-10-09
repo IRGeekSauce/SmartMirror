@@ -49,8 +49,8 @@
         setInterval(getWeather, 600000);
         function getWeather() {
             $.simpleWeather({
-                location: 'Paragould, AR',
-                woeid: '12789255',
+                location: 'Your City, Your State',
+                woeid: 'You'll need to get this ID#',
                 unit: 'f',
                 success: function (weather) {
                     html = '<ul><li class="day">' + weather.forecast[0].day + ', ' + weather.forecast[0].date + '</li></ul>';
