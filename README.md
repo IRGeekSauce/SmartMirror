@@ -11,3 +11,7 @@ You'll need:
 2) A two-way mirror (acrylic or glass)
 3) The files placed in the /var/www directory.
 4) The Pi configured to boot into Chromium and kiosk mode
+
+Here is the result: 
+
+<img src="https://github.com/IRGeekSauce/SmartMirror/blob/master/Smart_Mirror.jpg">
